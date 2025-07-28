@@ -1,0 +1,47 @@
+id,name,department,lead,size,location
+T001,HVAC Team,Climate Systems,Sarah Chen,12,Gothenburg
+T002,Safety Systems Team,Vehicle Safety,Marcus Andersson,18,Gothenburg
+T003,Entertainment Systems,Infotainment,Raj Patel,8,Bangalore
+T004,Autonomous Driving,AI & Automation,Dr. Lisa Kim,25,Silicon Valley
+T005,Interior Comfort,User Experience,Emma Johnson,10,Gothenburg
+T006,Lighting Systems,Electrical,Hans Mueller,7,Munich
+T007,Powertrain Control,Engine Systems,James Wilson,15,Detroit
+T008,Connectivity Team,Telematics,Yuki Tanaka,9,Tokyo
+T009,Body Electronics,Electrical Systems,Anna Svensson,14,Gothenburg
+T010,Sensor Integration,Hardware,Carlos Rodriguez,11,Barcelona
+T011,Parking & Maneuvering,ADAS,Marie Dubois,13,Paris
+T012,Lane Assist Systems,Vehicle Dynamics,Lars Eriksson,16,Gothenburg
+T013,Collision Avoidance,Safety Engineering,Dr. Michael Chen,22,Silicon Valley
+T014,Vision Systems,Computer Vision,Priya Sharma,19,Bangalore
+T015,Driver Monitoring,Human Factors,Thomas Kowalski,8,Munich
+T016,Window & Mirrors,Body Systems,Isabella Rodriguez,6,Barcelona
+T017,Sunroof & Convertible,Roof Systems,Jean-Pierre Moreau,5,Paris
+T018,Steering Systems,Chassis Engineering,Olaf Petersen,12,Gothenburg
+T019,Suspension Control,Ride & Handling,Dr. Angela Weber,14,Munich
+T020,Engine Management,Propulsion,Robert Johnson,20,Detroit
+T021,Fuel Systems,Powertrain,Maria Gonzalez,9,Barcelona
+T022,Transmission Control,Drivetrain,Hans Zimmermann,13,Munich
+T023,Exhaust Systems,Emissions,Pierre Laurent,7,Paris
+T024,Cooling Systems,Thermal Management,Akira Tanaka,10,Tokyo
+T025,Electrical Architecture,Power Systems,Dr. Erik Nilsson,18,Gothenburg
+T026,EV Charging,Electric Propulsion,Jennifer Lee,15,Silicon Valley
+T027,Regenerative Systems,Energy Recovery,Hiroshi Yamamoto,11,Tokyo
+T028,Traction Control,Vehicle Stability,Antonio Silva,9,Barcelona
+T029,Brake Systems,Safety Systems,Klaus Mueller,16,Munich
+T030,Load Management,Cargo Systems,Sophie Andersson,7,Gothenburg
+T031,Trailer Systems,Towing Solutions,Marco Rossi,8,Turin
+T032,Security Systems,Vehicle Protection,Dr. Sarah Kim,12,Silicon Valley
+T033,Remote Services,Connected Car,Liu Wei,14,Shanghai
+T034,Telematics Platform,Data Services,Dr. Aleksandr Petrov,16,Stockholm
+T035,OTA Updates,Software Deployment,Rachel Green,13,Silicon Valley
+T036,Vehicle Diagnostics,Maintenance Systems,Giuseppe Ferrari,10,Turin
+T037,Instrument Cluster,Display Systems,Kenji Nakamura,8,Tokyo
+T038,Infotainment Core,Media Systems,Dr. Fatima Al-Rashid,17,Dubai
+T039,Wireless Systems,Connectivity Hardware,Chen Wang,9,Shanghai
+T040,Ambient Systems,Interior Ambiance,Lucia Bertoli,6,Turin
+T041,Seat Systems,Comfort Engineering,Magnus Larsson,11,Gothenburg
+T042,Heating Systems,Thermal Comfort,Dr. Ingrid Schmidt,8,Munich
+T043,Defrost Systems,Visibility Assurance,Alexandre Dubois,5,Paris
+T044,Wiper Systems,Weather Protection,Takeshi Sato,6,Tokyo
+T045,Audio Systems,Sound Engineering,David Thompson,9,Detroit
+T046,Signal Systems,Communication,Elena Popov,7,Stockholm
