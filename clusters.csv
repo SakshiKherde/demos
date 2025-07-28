@@ -1,0 +1,16 @@
+id,name,stage,description,target_date,completion_percentage
+C001,Test Track,1,Minimal viable functions for basic vehicle operation,2024-06-01,85.0
+C002,Road Test,2,Road-ready functions including safety and navigation,2024-09-01,60.0
+C003,Comfort Features,3,Premium comfort and convenience features,2024-12-01,30.0
+C004,Autonomous Ready,4,Full autonomous driving capabilities,2025-03-01,15.0
+C005,Basic Powertrain,1,Essential engine and transmission functions,2024-05-15,90.0
+C006,Safety Core,1,Critical safety systems and emergency functions,2024-06-15,88.0
+C007,Driver Interface,2,Primary driver controls and displays,2024-08-01,70.0
+C008,Climate Control,2,Heating ventilation and air conditioning,2024-08-15,65.0
+C009,Lighting Package,2,Exterior and interior lighting systems,2024-09-15,58.0
+C010,Audio Visual,3,Entertainment and media systems,2024-11-01,45.0
+C011,Premium Comfort,3,Luxury seating and massage features,2024-11-15,35.0
+C012,Connected Services,3,Telematics and remote connectivity,2024-12-15,25.0
+C013,Advanced ADAS,4,Level 3 autonomous driving features,2025-02-01,20.0
+C014,Smart Infrastructure,4,V2X communication and smart city integration,2025-04-01,10.0
+C015,Personalization,4,AI-driven user preference adaptation,2025-05-01,8.0
