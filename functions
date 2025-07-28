@@ -1,0 +1,51 @@
+id,name,description,type,complexity,status
+F001,Temperature Control,Regulate cabin temperature based on settings,primary,7,deployed
+F002,Airflow Control,Manage air circulation and distribution,primary,6,deployed
+F003,Brake Assist,Emergency braking system activation,primary,9,testing
+F004,Door Locking,Electronic door lock/unlock mechanism,primary,4,deployed
+F005,Hazard Detection,Detect pedestrians and obstacles,primary,10,in_development
+F006,Media Playback,Stream and play audio/video content,secondary,5,deployed
+F007,Massage Control,Control seat massage intensity and patterns,secondary,3,deployed
+F008,Headlight Control,Adaptive headlight beam adjustment,primary,6,deployed
+F009,Climate Monitoring,Monitor cabin air quality and humidity,support,4,deployed
+F010,Speed Control,Cruise control and speed management,primary,8,deployed
+F011,Seat Adjustment,Automatic seat position adjustment,secondary,4,deployed
+F012,Navigation Display,GPS navigation and route planning,primary,7,deployed
+F013,Battery Management,Electric battery charging and monitoring,primary,9,testing
+F014,Tire Pressure Monitoring,Monitor and alert tire pressure status,support,3,deployed
+F015,Voice Recognition,Voice command processing,secondary,6,in_development
+F016,Parking Sensors,Ultrasonic parking distance measurement,primary,5,deployed
+F017,Lane Keeping,Automatic lane departure correction,primary,8,deployed
+F018,Blind Spot Detection,Monitor vehicle blind spots,primary,7,deployed
+F019,Adaptive Cruise,Distance-aware cruise control,primary,9,testing
+F020,Collision Warning,Forward collision alert system,primary,8,deployed
+F021,Night Vision,Infrared pedestrian and animal detection,secondary,9,in_development
+F022,Rain Sensing,Automatic windshield wiper activation,support,3,deployed
+F023,Auto Parking,Fully automated parking assistance,primary,10,testing
+F024,Traffic Sign Recognition,Read and interpret traffic signs,primary,8,deployed
+F025,Driver Monitoring,Monitor driver attention and fatigue,primary,7,deployed
+F026,Window Control,Automatic window operation and anti-pinch,secondary,4,deployed
+F027,Mirror Adjustment,Power mirror positioning and heating,secondary,3,deployed
+F028,Sunroof Control,Automatic sunroof operation,secondary,4,deployed
+F029,Steering Assist,Electronic power steering control,primary,6,deployed
+F030,Suspension Control,Adaptive damping and ride height,primary,8,deployed
+F031,Engine Start,Keyless ignition and engine management,primary,5,deployed
+F032,Fuel Injection,Precision fuel delivery control,primary,7,deployed
+F033,Transmission Control,Automatic gear shifting optimization,primary,8,deployed
+F034,Exhaust Management,Emission control and sound tuning,primary,6,deployed
+F035,Cooling System,Engine temperature regulation,primary,6,deployed
+F036,Power Distribution,Electrical system load management,primary,7,deployed
+F037,Charging Control,Electric vehicle charging management,primary,8,testing
+F038,Regenerative Braking,Energy recovery during braking,primary,7,deployed
+F039,Traction Control,Wheel slip prevention system,primary,6,deployed
+F040,Stability Control,Vehicle dynamics management,primary,8,deployed
+F041,Hill Start Assist,Prevent rollback on inclines,primary,5,deployed
+F042,Load Leveling,Automatic rear suspension adjustment,secondary,6,deployed
+F043,Trailer Assist,Trailer backing and monitoring,secondary,7,deployed
+F044,Cargo Management,Load sensing and organization,secondary,4,deployed
+F045,Emergency Call,Automatic emergency service contact,primary,6,deployed
+F046,Theft Detection,Intrusion and movement monitoring,primary,5,deployed
+F047,Remote Start,Vehicle remote operation control,secondary,4,deployed
+F048,Telematics,Vehicle data transmission and monitoring,primary,6,deployed
+F049,Software Updates,Over-the-air system updates,primary,8,in_development
+F050,Diagnostics,Comprehensive system health monitoring,primary,7,deployed
