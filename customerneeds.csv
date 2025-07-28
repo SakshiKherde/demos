@@ -1,0 +1,31 @@
+id,name,description,priority,category
+CN001,Climate Comfort,Maintain optimal cabin temperature and air quality,8,comfort
+CN002,Pedestrian Safety,Detect and avoid pedestrians and obstacles,10,safety
+CN003,Media Streaming,Stream music and entertainment content,6,entertainment
+CN004,Autonomous Driving,Self-driving capabilities for highway and city,10,automation
+CN005,Massage Comfort,Provide relaxing massage functionality,4,comfort
+CN006,Emergency Braking,Automatic emergency braking system,10,safety
+CN007,Door Security,Secure locking and unlocking mechanisms,7,security
+CN008,Lighting Control,Adaptive headlights and interior lighting,6,visibility
+CN009,Engine Performance,Optimal engine performance and efficiency,9,performance
+CN010,Connectivity,5G connectivity and wireless communication,7,connectivity
+CN011,Parking Assistance,Automated parking and maneuvering,8,automation
+CN012,Fuel Efficiency,Maximize fuel economy and reduce emissions,9,sustainability
+CN013,Seat Comfort,Ergonomic seating with multiple adjustments,6,comfort
+CN014,Noise Reduction,Minimize cabin noise and vibration,7,comfort
+CN015,Vision Enhancement,Clear visibility in all weather conditions,8,visibility
+CN016,Collision Prevention,Advanced collision avoidance systems,10,safety
+CN017,Navigation Accuracy,Precise GPS and route optimization,7,navigation
+CN018,Voice Control,Hands-free operation via voice commands,6,convenience
+CN019,Air Quality,Clean air filtration and monitoring,5,health
+CN020,Load Management,Efficient cargo and passenger space usage,6,utility
+CN021,Battery Life,Extended electric vehicle range,9,sustainability
+CN022,Theft Protection,Advanced anti-theft and tracking systems,8,security
+CN023,Emergency Response,Automatic emergency service contact,10,safety
+CN024,Ride Quality,Smooth and comfortable ride experience,7,comfort
+CN025,Tire Monitoring,Real-time tire condition assessment,6,maintenance
+CN026,Engine Health,Continuous engine performance monitoring,8,maintenance
+CN027,Wireless Charging,Convenient device charging solutions,4,convenience
+CN028,Sunroof Control,Automated sunroof and window management,3,comfort
+CN029,Mirror Adjustment,Automatic mirror positioning and heating,4,convenience
+CN030,Suspension Tuning,Adaptive suspension for different conditions,7,performance
