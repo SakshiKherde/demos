@@ -1,0 +1,21 @@
+id,name,test_type,environment,duration_hours,temperature_range,conditions,pass_criteria
+TS001,Climate Extreme Cold Test,environmental,climate_chamber,72,-40 to 5,humidity_controlled,all_functions_operational
+TS002,Climate Extreme Heat Test,environmental,climate_chamber,48,35 to 60,solar_simulation,no_degradation
+TS003,Highway Autopilot Test,autonomous,test_track,12,15 to 25,clear_weather,zero_interventions
+TS004,Emergency Braking Test,safety,test_track,8,20 to 25,dry_surface,stop_distance_under_40m
+TS005,Urban Navigation Test,autonomous,city_course,6,18 to 22,mixed_traffic,successful_navigation
+TS006,Pedestrian Detection Test,safety,test_track,4,15 to 30,various_lighting,100_percent_detection
+TS007,Night Vision Performance,visibility,test_track,8,5 to 15,no_ambient_light,object_detection_150m
+TS008,Rain Weather Driving,environmental,test_track,6,10 to 20,heavy_rainfall,stable_operation
+TS009,Snow Traction Test,environmental,winter_track,10,-10 to 2,snow_ice_surface,maintained_control
+TS010,Audio System Quality,entertainment,anechoic_chamber,3,20 to 25,controlled_acoustic,thd_under_1_percent
+TS011,Massage Function Endurance,comfort,static_test,24,20 to 25,standard_conditions,no_mechanical_failure
+TS012,Door Lock Security Test,security,security_lab,12,20 to 25,various_attacks,no_unauthorized_access
+TS013,Charging System Test,electrical,charging_station,8,15 to 35,various_voltages,safe_charging_completion
+TS014,Collision Avoidance Test,safety,crash_test_facility,2,20 to 25,controlled_scenarios,zero_collisions
+TS015,Fuel Efficiency Test,performance,dynamometer,12,20 to 25,standard_cycle,meet_efficiency_targets
+TS016,Suspension Comfort Test,comfort,road_simulator,6,20 to 25,various_road_surfaces,vibration_under_limit
+TS017,Steering Response Test,performance,handling_track,4,15 to 25,dry_surface,response_time_under_200ms
+TS018,Battery Thermal Test,electrical,thermal_chamber,48,-20 to 50,temperature_cycling,capacity_retention_95_percent
+TS019,Infotainment Usability,user_experience,usability_lab,4,20 to 25,controlled_environment,task_completion_90_percent
+TS020,Wireless Connectivity Test,connectivity,rf_chamber,6,20 to 25,various_signals,connection_stability_99_percent
