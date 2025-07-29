@@ -1,0 +1,21 @@
+id,name,region,authority,effective_date,compliance_deadline,category,severity
+REG001,FMVSS 208 Occupant Protection,USA,NHTSA,2020-01-01,2024-09-01,safety,mandatory
+REG002,UN ECE R94 Frontal Impact,Europe,UNECE,2019-06-01,2024-06-01,safety,mandatory
+REG003,Euro NCAP 2025 Protocol,Europe,Euro_NCAP,2025-01-01,2025-01-01,safety,voluntary
+REG004,GDPR Data Protection,Europe,EU_Commission,2018-05-25,2018-05-25,privacy,mandatory
+REG005,UN ECE R79 Steering Equipment,Global,UNECE,2021-01-01,2024-01-01,performance,mandatory
+REG006,ISO 26262 Functional Safety,Global,ISO,2018-12-01,2025-12-01,safety,mandatory
+REG007,CAFE Fuel Economy Standards,USA,EPA_NHTSA,2021-01-01,2026-01-01,environmental,mandatory
+REG008,EU CO2 Emission Standards,Europe,EU_Commission,2021-01-01,2025-01-01,environmental,mandatory
+REG009,China 6b Emission Standard,China,MEE,2023-07-01,2023-07-01,environmental,mandatory
+REG010,UN ECE R10 EMC Standard,Global,UNECE,2020-01-01,2024-01-01,electromagnetic,mandatory
+REG011,SAE J3016 Automation Levels,Global,SAE_International,2021-04-30,2025-01-01,autonomous,guideline
+REG012,UN ECE R157 ALKS,Global,UNECE,2021-01-22,2024-01-01,autonomous,mandatory
+REG013,CPSC Child Safety Standards,USA,CPSC,2019-01-01,2024-01-01,safety,mandatory
+REG014,UN ECE R44 Child Restraints,Global,UNECE,2020-06-01,2024-06-01,safety,mandatory
+REG015,FCC Part 15 Radio Frequency,USA,FCC,2020-01-01,2024-01-01,electromagnetic,mandatory
+REG016,RED Radio Equipment Directive,Europe,EU_Commission,2017-06-13,2024-01-01,electromagnetic,mandatory
+REG017,UN ECE R48 Lighting,Global,UNECE,2021-01-01,2024-01-01,visibility,mandatory
+REG018,IIHS Top Safety Pick,USA,IIHS,2024-01-01,2024-12-31,safety,voluntary
+REG019,JC08 Fuel Economy Test,Japan,MLIT,2020-04-01,2024-04-01,environmental,mandatory
+REG020,UN ECE R100 Electric Safety,Global,UNECE,2021-09-01,2024-09-01,electrical,mandatory
