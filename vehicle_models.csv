@@ -1,0 +1,16 @@
+id,model_name,platform,segment,launch_year,target_market,price_range,production_volume
+VM001,XC90 Recharge,SPA2,luxury_suv,2022,global,70000-85000,120000
+VM002,XC60 Recharge,SPA,premium_suv,2021,global,55000-70000,180000
+VM003,XC40 Recharge,CMA,compact_suv,2020,global,35000-50000,200000
+VM004,S90 Recharge,SPA2,luxury_sedan,2023,global,65000-80000,80000
+VM005,V90 Recharge,SPA2,luxury_wagon,2023,europe_china,60000-75000,60000
+VM006,EX90,SPA2,electric_luxury_suv,2024,global,75000-110000,150000
+VM007,EX60,SPA,electric_premium_suv,2024,global,50000-65000,160000
+VM008,EX40,CMA,electric_compact_suv,2023,global,35000-45000,180000
+VM009,EM90,SPA2,electric_luxury_mpv,2024,china,80000-95000,40000
+VM010,C40 Recharge,CMA,electric_coupe_suv,2022,global,40000-55000,90000
+VM011,XC90 Excellence,SPA2,ultra_luxury_suv,2023,global,100000-120000,15000
+VM012,Polestar 3,SPA2,performance_electric_suv,2024,global,70000-85000,80000
+VM013,Future Sedan Concept,SPA3,autonomous_luxury,2026,global,90000-120000,0
+VM014,Robotaxi Prototype,SPA3,autonomous_commercial,2027,urban,150000-200000,0
+VM015,Delivery Van Electric,CMA,commercial_electric,2025,global,45000-60000,50000
