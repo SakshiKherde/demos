@@ -1,0 +1,31 @@
+id,name,country,tier,reliability_score,lead_time_days,quality_rating,financial_health
+SUP001,Bosch Automotive,Germany,tier_1,9.2,45,AAA,excellent
+SUP002,Continental AG,Germany,tier_1,9.1,42,AAA,excellent
+SUP003,Magna International,Canada,tier_1,8.9,38,AA+,excellent
+SUP004,ZF Friedrichshafen,Germany,tier_1,9.0,40,AAA,excellent
+SUP005,Valeo SA,France,tier_1,8.8,35,AA+,good
+SUP006,Aptiv PLC,Ireland,tier_1,8.7,48,AA,good
+SUP007,Denso Corporation,Japan,tier_1,9.3,52,AAA,excellent
+SUP008,Brembo SpA,Italy,tier_1,8.9,28,AA+,good
+SUP009,Webasto SE,Germany,tier_1,8.6,33,AA,good
+SUP010,Johnson Electric,Hong Kong,tier_2,8.4,25,A+,good
+SUP011,LG Electronics,South Korea,tier_1,8.8,41,AA+,excellent
+SUP012,Osram Licht AG,Germany,tier_2,8.5,22,A+,good
+SUP013,Qualcomm Technologies,USA,tier_1,9.1,38,AAA,excellent
+SUP014,Samsung Electronics,South Korea,tier_1,9.2,35,AAA,excellent
+SUP015,Velodyne Lidar,USA,tier_1,8.3,65,A,fair
+SUP016,FLIR Systems,USA,tier_2,8.1,45,A,good
+SUP017,u-blox AG,Switzerland,tier_2,8.7,28,AA,good
+SUP018,Sensirion AG,Switzerland,tier_2,8.9,24,AA+,good
+SUP019,STMicroelectronics,Switzerland,tier_2,8.8,30,AA+,excellent
+SUP020,Infineon Technologies,Germany,tier_2,8.9,32,AA+,excellent
+SUP021,CATL Battery,China,tier_1,8.6,55,AA,good
+SUP022,Tesla Supercharger,USA,tier_1,8.4,48,A+,excellent
+SUP023,BorgWarner Inc,USA,tier_1,8.7,35,AA,good
+SUP024,Gentherm Inc,USA,tier_2,8.2,28,A+,good
+SUP025,Knowles Electronics,USA,tier_2,8.3,22,A+,good
+SUP026,Amphenol Corporation,USA,tier_2,8.6,25,AA,good
+SUP027,Brose Fahrzeugteile,Germany,tier_1,8.8,30,AA+,good
+SUP028,Bilstein Suspension,Germany,tier_1,8.9,40,AA+,excellent
+SUP029,Westfalia Automotive,Germany,tier_2,8.1,32,A,good
+SUP030,Giuseppe Ferrari SpA,Italy,tier_2,7.9,28,A,fair
