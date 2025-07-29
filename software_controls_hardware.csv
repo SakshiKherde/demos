@@ -1,0 +1,82 @@
+software_id,hardware_id,interface_type,protocol
+SW001,HW001,I2C,Sensor Protocol v2.1
+SW002,HW002,CAN,CAN-FD
+SW003,HW003,CAN,Safety Critical CAN
+SW004,HW004,LIN,LIN 2.1
+SW005,HW005,Ethernet,Automotive Ethernet
+SW006,HW006,LVDS,Display Interface
+SW007,HW007,PWM,Motor Control
+SW008,HW008,CAN,Lighting CAN
+SW009,HW009,I2C,Sensor Protocol v2.1
+SW010,HW010,CAN,Powertrain CAN
+SW011,HW011,CAN,Body CAN
+SW012,HW012,UART,GPS Serial
+SW013,HW013,CAN,Battery CAN
+SW014,HW014,I2C,Sensor Protocol v2.1
+SW015,HW015,I2S,Audio Interface
+SW016,HW016,I2C,Ultrasonic Protocol
+SW017,HW017,Ethernet,Camera Interface
+SW018,HW018,CAN,Radar Protocol
+SW019,HW019,CAN,Steering CAN
+SW020,HW020,I2C,Wheel Speed Protocol
+SW021,HW021,Ethernet,Thermal Camera Interface
+SW022,HW022,I2C,Rain Sensor Protocol
+SW023,HW023,I2C,IMU Protocol
+SW024,HW024,I2C,Accelerometer Protocol
+SW025,HW025,I2C,Proximity Protocol
+SW026,HW026,CAN,Window Motor CAN
+SW027,HW027,CAN,Mirror Motor CAN
+SW028,HW028,CAN,Sunroof Motor CAN
+SW029,HW019,CAN,Steering Control CAN
+SW030,HW029,CAN,Suspension CAN
+SW031,HW031,CAN,Engine CAN
+SW032,HW032,CAN,Fuel Injection CAN
+SW033,HW033,CAN,Transmission CAN
+SW034,HW034,CAN,Exhaust Control CAN
+SW035,HW035,CAN,Cooling CAN
+SW036,HW036,CAN,Power Distribution CAN
+SW037,HW037,CAN,Charging CAN
+SW038,HW038,CAN,Motor Control CAN
+SW039,HW039,CAN,Traction CAN
+SW040,HW040,CAN,Stability CAN
+SW041,HW041,CAN,Hill Hold CAN
+SW042,HW042,I2C,Load Sensor Protocol
+SW043,HW043,CAN,Trailer CAN
+SW044,HW044,I2C,Cargo Sensor Protocol
+SW045,HW045,Cellular,Emergency Protocol
+SW046,HW046,I2C,Motion Detector Protocol
+SW047,HW047,RF,Remote Control Protocol
+SW048,HW048,Cellular,Antenna Protocol
+SW049,HW049,Ethernet,Modem Interface
+SW050,HW050,SPI,Flash Memory Interface
+SW051,HW051,LVDS,Instrument Display Interface
+SW052,HW052,MIPI,Touchscreen Interface
+SW053,HW053,Qi,Wireless Charging Protocol
+SW054,HW054,PWM,LED Control
+SW055,HW055,PWM,Seat Heating Control
+SW056,HW056,PWM,Steering Wheel Heating
+SW057,HW057,PWM,Defrost Control
+SW058,HW058,CAN,Wiper Motor CAN
+SW059,HW059,PWM,Horn Control
+SW060,HW060,CAN,Turn Signal CAN
+SW031,HW061,I2C,Oxygen Sensor Protocol
+SW034,HW062,PWM,Catalyst Heater Control
+SW031,HW063,CAN,Turbocharger CAN
+SW035,HW064,PWM,Intercooler Fan Control
+SW031,HW065,I2C,Oil Pressure Protocol
+SW035,HW066,I2C,Coolant Temperature Protocol
+SW032,HW067,I2C,Fuel Level Protocol
+SW003,HW068,CAN,Vacuum Pump CAN
+SW031,HW069,I2C,Compression Sensor Protocol
+SW031,HW070,I2C,Knock Sensor Protocol
+SW005,HW017,Ethernet,Front Camera Interface
+SW018,HW018,CAN,Side Radar Interface
+SW020,HW020,I2C,ABS Sensor Protocol
+SW023,HW030,CAN,Spring Actuator CAN
+SW036,HW036,CAN,Alternator Interface
+SW037,HW038,CAN,Inverter Interface
+SW010,HW010,CAN,Throttle Control CAN
+SW014,HW014,I2C,Tire Pressure Protocol
+SW009,HW009,I2C,Air Quality Protocol
+SW025,HW025,I2C,Driver Presence Protocol
+SW048,HW049,Ethernet,5G Modem Interface
