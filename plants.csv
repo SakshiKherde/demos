@@ -1,0 +1,16 @@
+id,name,location,country,capacity_units_per_year,established_year,plant_type,workforce_size
+PLT001,Volvo Torslanda Plant,Gothenburg,Sweden,300000,1964,final_assembly,6800
+PLT002,Volvo Ghent Plant,Ghent,Belgium,270000,1965,final_assembly,6500
+PLT003,Volvo Daqing Plant,Daqing,China,120000,2013,final_assembly,2800
+PLT004,Volvo Charleston Plant,Charleston,USA,150000,2018,final_assembly,4000
+PLT005,Volvo Chengdu Plant,Chengdu,China,130000,2013,final_assembly,3200
+PLT006,Volvo Luqiao Plant,Luqiao,China,125000,2012,final_assembly,2900
+PLT007,Engine Plant Skövde,Skövde,Sweden,500000,1971,powertrain,2100
+PLT008,Engine Plant Köping,Köping,Sweden,200000,1976,powertrain,800
+PLT009,Transmission Plant Köping,Köping,Sweden,400000,1979,powertrain,1200
+PLT010,Battery Assembly Ghent,Ghent,Belgium,50000,2019,battery,450
+PLT011,Electronics Plant Bangalore,Bangalore,India,0,2016,software,2800
+PLT012,R&D Center Gothenburg,Gothenburg,Sweden,0,1927,research,4500
+PLT013,Design Studio Stockholm,Stockholm,Sweden,0,2018,design,320
+PLT014,Test Track Hällered,Hällered,Sweden,0,1975,testing,180
+PLT015,Parts Distribution Center,Göteborg,Sweden,0,1985,logistics,650
