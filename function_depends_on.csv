@@ -1,0 +1,91 @@
+source_function_id,target_function_id,dependency_type,strength,reason
+F001,F002,hard,8,Temperature control affects required airflow patterns
+F002,F001,hard,7,Airflow distribution affects temperature uniformity
+F003,F005,hard,9,Brake assist requires pedestrian detection input
+F005,F003,soft,6,Detection system can trigger brake recommendations
+F008,F012,soft,5,Headlights adapt based on navigation route
+F010,F013,hard,8,Speed control requires battery status information
+F011,F007,soft,4,Seat adjustment works with massage positioning
+F012,F010,soft,6,Navigation can optimize speed for route efficiency
+F006,F015,soft,5,Media playback responds to voice commands
+F004,F005,hard,7,Door locks engage when pedestrian threat detected
+F009,F001,soft,6,Air quality data influences temperature control
+F014,F010,hard,7,Tire pressure affects speed control parameters
+F013,F010,hard,8,Battery level limits speed control options
+F007,F011,soft,4,Massage requires proper seat positioning
+F015,F006,soft,5,Voice commands control media functions
+F016,F023,hard,9,Parking sensors required for auto parking
+F017,F018,soft,7,Lane keeping works with blind spot detection
+F018,F017,soft,6,Blind spot data enhances lane keeping
+F019,F020,hard,8,Adaptive cruise needs collision warning data
+F020,F003,hard,9,Collision warning triggers emergency braking
+F021,F005,soft,6,Night vision enhances hazard detection
+F022,F008,soft,4,Rain sensor affects headlight operation
+F023,F016,hard,9,Auto parking requires parking sensor data
+F024,F012,soft,7,Traffic signs inform navigation system
+F025,F019,hard,8,Driver monitoring affects adaptive cruise
+F026,F004,soft,3,Window control integrates with door locks
+F027,F025,soft,4,Mirror adjustment aids driver monitoring
+F028,F009,soft,3,Sunroof affects climate monitoring
+F029,F017,hard,8,Steering assist enables lane keeping
+F030,F019,soft,7,Suspension affects cruise control comfort
+F031,F032,hard,9,Engine start triggers fuel injection
+F032,F033,hard,8,Fuel injection coordinates with transmission
+F033,F034,hard,7,Transmission affects exhaust management
+F034,F035,hard,6,Exhaust heat impacts cooling system
+F035,F031,hard,8,Cooling system protects engine components
+F036,F013,hard,9,Power distribution manages battery load
+F037,F013,hard,10,Charging control requires battery management
+F038,F003,soft,7,Regenerative braking supplements friction brakes
+F039,F040,hard,8,Traction control works with stability control
+F040,F039,hard,8,Stability control modulates traction control
+F041,F003,hard,6,Hill start assist prevents brake rollback
+F042,F030,soft,6,Load leveling integrates with suspension
+F043,F016,soft,5,Trailer assist uses parking sensors
+F044,F042,soft,4,Cargo management affects load leveling
+F045,F005,hard,8,Emergency call triggered by hazard detection
+F046,F004,hard,7,Theft detection controls door locks
+F047,F031,soft,5,Remote start initiates engine start sequence
+F048,F049,hard,8,Telematics enables software updates
+F049,F050,hard,7,Software updates require diagnostics validation
+F050,F048,soft,6,Diagnostics data transmitted via telematics
+F005,F020,hard,9,Hazard detection feeds collision warning
+F020,F019,soft,7,Collision warning affects adaptive cruise behavior
+F013,F037,hard,9,Battery management controls charging system
+F037,F038,soft,6,Charging affects regenerative braking efficiency
+F031,F035,hard,8,Engine start requires cooling system readiness
+F035,F032,hard,7,Cooling system temperature affects fuel injection
+F032,F034,hard,6,Fuel injection timing affects exhaust emissions
+F034,F033,soft,5,Exhaust backpressure influences transmission shift
+F036,F031,hard,9,Power distribution supplies engine start power
+F013,F036,hard,8,Battery management coordinates power distribution
+F025,F015,soft,6,Driver monitoring works with voice recognition
+F015,F025,soft,5,Voice commands can override driver monitoring
+F012,F008,hard,7,Navigation controls adaptive headlight patterns
+F008,F021,soft,4,Headlights complement night vision system
+F021,F024,soft,5,Night vision assists traffic sign recognition
+F024,F020,soft,6,Traffic signs provide collision warning context
+F017,F029,hard,8,Lane keeping requires steering assist
+F029,F030,soft,6,Steering inputs affect suspension response
+F030,F040,hard,7,Suspension data feeds stability control
+F040,F041,soft,5,Stability control influences hill start assist
+F016,F026,soft,3,Parking sensors detect window obstructions
+F026,F027,soft,2,Window position affects mirror visibility
+F027,F028,soft,2,Mirror heating relates to sunroof condensation
+F028,F001,soft,4,Sunroof position affects cabin temperature
+F001,F009,hard,6,Temperature control uses air quality data
+F009,F002,hard,7,Air quality monitoring drives airflow control
+F002,F022,soft,3,Airflow affected by rain sensor activation
+F022,F021,soft,2,Rain conditions impact night vision effectiveness
+F023,F043,soft,4,Auto parking system aids trailer maneuvering
+F043,F044,soft,3,Trailer systems affect cargo load calculations
+F044,F014,soft,4,Cargo weight impacts tire pressure
+F014,F039,hard,6,Tire pressure affects traction control
+F039,F003,hard,7,Traction control modulates brake force
+F003,F041,hard,6,Brake system supports hill start assist
+F045,F046,soft,5,Emergency call can trigger theft protection
+F046,F047,soft,4,Theft detection affects remote start availability
+F047,F048,soft,3,Remote start status sent via telematics
+F048,F050,hard,6,Telematics provides diagnostic data transmission
+F050,F049,hard,7,Diagnostics validate software update success
+F049,F045,soft,3,Software updates can enhance emergency systems
