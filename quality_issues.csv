@@ -1,0 +1,21 @@
+id,title,severity,status,reported_date,affected_components,root_cause,resolution_status
+QI001,Climate Control Overheating,high,investigating,2024-03-15,SW001;HW001,software_bug,in_progress
+QI002,Brake Assist Delayed Response,critical,resolved,2024-02-10,SW003;HW003,sensor_calibration,completed
+QI003,Battery Charging Intermittent,high,investigating,2024-04-02,SW013;HW013,connector_corrosion,in_progress
+QI004,Door Lock Mechanism Failure,medium,resolved,2024-01-28,SW004;HW004,mechanical_wear,completed
+QI005,Navigation GPS Drift,medium,investigating,2024-03-20,SW012;HW012,firmware_issue,in_progress
+QI006,Headlight Flickering Issue,low,resolved,2024-02-05,SW008;HW008,power_supply,completed
+QI007,Seat Massage Motor Noise,low,investigating,2024-04-08,SW007;HW007,bearing_defect,pending
+QI008,Parking Sensor False Alerts,medium,resolved,2024-03-01,SW016;HW016,signal_interference,completed
+QI009,Voice Recognition Accuracy,medium,investigating,2024-04-12,SW015;HW015,training_data,in_progress
+QI010,Suspension Damper Leak,high,investigating,2024-04-05,SW030;HW029,seal_degradation,urgent
+QI011,Engine Start Delay Cold Weather,medium,resolved,2024-01-15,SW031;HW031,fuel_mixture,completed
+QI012,Transmission Shift Harshness,medium,investigating,2024-03-25,SW033;HW033,hydraulic_pressure,in_progress
+QI013,Infotainment Screen Freeze,low,resolved,2024-02-18,SW052;HW052,memory_leak,completed
+QI014,Wireless Charging Inefficiency,low,investigating,2024-04-01,SW053;HW053,alignment_sensitivity,pending
+QI015,Emergency Call System Latency,high,investigating,2024-03-28,SW045;HW045,network_congestion,urgent
+QI016,Tire Pressure Sensor Drift,medium,resolved,2024-02-22,SW014;HW014,temperature_compensation,completed
+QI017,Lane Keeping Oscillation,high,investigating,2024-04-10,SW017;HW017,control_algorithm,in_progress
+QI018,Collision Warning False Positive,medium,resolved,2024-03-08,SW020;HW020,object_classification,completed
+QI019,Mirror Adjustment Position Loss,low,investigating,2024-04-15,SW027;HW027,encoder_drift,pending
+QI020,Sunroof Water Leak Detection,medium,investigating,2024-04-18,SW028;HW028,sensor_placement,in_progress
