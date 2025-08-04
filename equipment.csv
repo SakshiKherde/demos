@@ -1,0 +1,31 @@
+id,name,equipment_type,work_station_id,manufacturer,model,serial_number,installation_date,last_maintenance,next_maintenance,status,operating_hours,efficiency_rating
+EQ001,Welding Robot KUKA-1,welding_robot,WS001,KUKA,KR 210 R3100,KUK-2018-001,2018-03-20,2024-07-15,2024-08-15,operational,12450,0.94
+EQ002,Assembly Robot ABB-1,assembly_robot,WS002,ABB,IRB 6700,ABB-2018-002,2018-03-25,2024-07-10,2024-08-10,operational,11890,0.91
+EQ003,Spot Welding Gun,welding_equipment,WS003,Bosch,PSS 6000,BSH-2018-003,2018-04-01,2024-07-20,2024-08-20,operational,13200,0.96
+EQ004,Hydraulic Press,press,WS004,Schuler,SMG 630,SCH-2017-004,2017-12-15,2024-07-12,2024-08-12,operational,15600,0.89
+EQ005,Vision System,inspection,WS005,Cognex,In-Sight 7000,COG-2019-005,2019-06-10,2024-07-18,2024-08-18,operational,8750,0.98
+EQ006,Paint Robot Durr-1,paint_robot,WS007,Durr,EcoRP E043,DUR-2019-006,2019-01-15,2024-07-16,2024-08-16,operational,9420,0.92
+EQ007,Spray Booth,painting_equipment,WS007,Eisenmann,EcoPaintJet,EIS-2019-007,2019-02-01,2024-07-22,2024-08-22,operational,9100,0.90
+EQ008,Curing Oven,oven,WS009,Venjakob,VOC 800,VEN-2019-008,2019-02-20,2024-07-14,2024-08-14,operational,8950,0.95
+EQ009,Engine Hoist,lifting_equipment,WS011,Demag,DC-Pro 10,DEM-2017-009,2017-09-25,2024-07-17,2024-08-17,operational,16200,0.87
+EQ010,Torque Wrench Auto,fastening_tool,WS012,Atlas Copco,PowerMACS,ATC-2018-010,2018-05-12,2024-07-13,2024-08-13,operational,12800,0.93
+EQ011,Cable Pulling Machine,electrical_equipment,WS013,Komax,Kappa 340,KOM-2018-011,2018-07-20,2024-07-20,2024-08-20,operational,11950,0.88
+EQ012,Seat Installation Robot,assembly_robot,WS015,Fanuc,M-710iC,FAN-2019-012,2019-03-30,2024-07-18,2024-08-18,operational,8650,0.92
+EQ013,Wheel Balancer,balancing_equipment,WS016,Hunter,GSP9700,HUN-2018-013,2018-08-15,2024-07-16,2024-08-16,operational,12100,0.96
+EQ014,Dynamometer,testing_equipment,WS017,AVL,PUMA Open,AVL-2019-014,2019-05-22,2024-07-19,2024-08-19,operational,7890,0.94
+EQ015,Engine Assembly Robot,assembly_robot,WS018,KUKA,KR 500 Fortec,KUK-2016-015,2016-08-10,2024-07-15,2024-08-15,operational,18700,0.89
+EQ016,Cylinder Head Gripper,handling_equipment,WS019,Schunk,PGN-plus 160,SCK-2016-016,2016-09-05,2024-07-12,2024-08-12,operational,18200,0.91
+EQ017,Timing Chain Tensioner,assembly_tool,WS020,Hazet,7901E,HAZ-2017-017,2017-01-20,2024-07-17,2024-08-17,operational,16800,0.88
+EQ018,Engine Test Bench,testing_equipment,WS021,Horiba,DYNAS3,HOR-2016-018,2016-11-30,2024-07-14,2024-08-14,operational,17900,0.93
+EQ019,Battery Cell Welder,welding_equipment,WS022,Emerson,Branson GSX,EMR-2020-019,2020-06-15,2024-07-20,2024-08-20,operational,6100,0.95
+EQ020,Pack Assembly Robot,assembly_robot,WS023,Universal Robots,UR10e,UNI-2020-020,2020-07-01,2024-07-18,2024-08-18,operational,5850,0.92
+EQ021,Cooling Loop Tester,testing_equipment,WS024,Weiss Technik,WK3 340,WEI-2020-021,2020-07-20,2024-07-16,2024-08-16,operational,5720,0.94
+EQ022,Battery Performance Tester,testing_equipment,WS025,Chroma,17208M,CHR-2020-022,2020-08-05,2024-07-21,2024-08-21,operational,5680,0.96
+EQ023,Door Panel Press,press,WS026,Aida,NC1-110,AID-2019-023,2019-09-12,2024-07-13,2024-08-13,operational,8200,0.89
+EQ024,Foam Injection System,injection_equipment,WS027,Hennecke,HighLine,HEN-2019-024,2019-10-08,2024-07-19,2024-08-19,operational,7950,0.91
+EQ025,Dashboard Insertion Robot,assembly_robot,WS028,Yaskawa,GP180,YAS-2019-025,2019-11-15,2024-07-15,2024-08-15,operational,7600,0.90
+EQ026,Interior Quality Scanner,inspection,WS029,Carl Zeiss,O-INSPECT,ZEI-2020-026,2020-01-20,2024-07-22,2024-08-22,operational,6200,0.97
+EQ027,Conveyor System Main,conveyor,WS013,Siemens,SIMATIC,SIE-2018-027,2018-06-01,2024-07-17,2024-08-17,operational,12500,0.88
+EQ028,AGV Fleet Unit 1,transport,WS011,Kiva Systems,T7-200,KIV-2020-028,2020-03-10,2024-07-20,2024-08-20,operational,6800,0.93
+EQ029,Laser Cutter,cutting_equipment,WS030,Trumpf,TruLaser 3030,TRU-2019-029,2019-04-25,2024-07-17,2024-08-17,operational,8400,0.95
+EQ030,3D Printer Prototype,additive_manufacturing,WS030,Stratasys,F900,STR-2021-030,2021-02-14,2024-07-19,2024-08-19,operational,4200,0.89
