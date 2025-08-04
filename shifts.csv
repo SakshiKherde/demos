@@ -1,0 +1,26 @@
+id,shift_name,start_time,end_time,plant_id,shift_supervisor,worker_count,shift_type
+SH001,Day Shift,06:00:00,14:00:00,PLT001,John Anderson,45,production
+SH002,Evening Shift,14:00:00,22:00:00,PLT001,Maria Rodriguez,42,production
+SH003,Night Shift,22:00:00,06:00:00,PLT001,Lars Eriksson,38,production
+SH004,Day Shift,06:00:00,14:00:00,PLT002,Sophie Martin,35,production
+SH005,Evening Shift,14:00:00,22:00:00,PLT002,Hans Mueller,33,production
+SH006,Night Shift,22:00:00,06:00:00,PLT002,Yuki Tanaka,30,production
+SH007,Day Shift,06:00:00,14:00:00,PLT003,Chen Wei,28,production
+SH008,Evening Shift,14:00:00,22:00:00,PLT003,Anna Svensson,26,production
+SH009,Day Shift,06:00:00,14:00:00,PLT004,Michael Johnson,32,production
+SH010,Evening Shift,14:00:00,22:00:00,PLT004,Isabella Rodriguez,30,production
+SH011,Night Shift,22:00:00,06:00:00,PLT004,Thomas Kowalski,25,production
+SH012,Day Shift,06:00:00,14:00:00,PLT005,Marie Dubois,29,production
+SH013,Evening Shift,14:00:00,22:00:00,PLT005,Carlos Santos,27,production
+SH014,Day Shift,06:00:00,14:00:00,PLT006,Robert Kim,18,production
+SH015,Evening Shift,14:00:00,22:00:00,PLT006,Angela Weber,16,production
+SH016,Day Shift,06:00:00,14:00:00,PLT007,Erik Nilsson,15,production
+SH017,Evening Shift,14:00:00,22:00:00,PLT007,Jennifer Lee,14,production
+SH018,Day Shift,06:00:00,14:00:00,PLT008,Hiroshi Yamamoto,12,production
+SH019,Evening Shift,14:00:00,22:00:00,PLT008,Marco Rossi,11,production
+SH020,Day Shift,06:00:00,14:00:00,PLT009,Sarah Kim,13,production
+SH021,Day Shift,08:00:00,16:00:00,PLT011,Dr. Lisa Wang,25,engineering
+SH022,Day Shift,08:00:00,16:00:00,PLT012,Magnus Larsson,35,research
+SH023,Day Shift,08:00:00,16:00:00,PLT013,Elena Popov,8,design
+SH024,Day Shift,08:00:00,16:00:00,PLT014,David Thompson,12,testing
+SH025,Day Shift,08:00:00,16:00:00,PLT015,Lucia Bertoli,15,logistics
