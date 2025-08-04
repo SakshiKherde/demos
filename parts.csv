@@ -1,0 +1,41 @@
+id,part_number,name,category,material,weight_kg,cost_usd,critical_part,lead_time_days,min_stock_level,current_stock,supplier_id,quality_grade
+PT001,BP-001-XC90,Front Bumper XC90,body_exterior,thermoplastic,8.5,245.80,true,21,50,87,SUP001,A
+PT002,BP-002-XC60,Front Bumper XC60,body_exterior,thermoplastic,7.8,225.60,true,21,45,92,SUP001,A
+PT003,ENG-V8-001,V8 Engine Block,powertrain,aluminum,185.2,12500.00,true,45,5,12,SUP002,A+
+PT004,ENG-I4-001,4-Cylinder Engine Block,powertrain,aluminum,125.8,7800.00,true,35,8,15,SUP002,A+
+PT005,TRANS-001,8-Speed Automatic Transmission,powertrain,steel_aluminum,95.4,4500.00,true,42,6,11,SUP003,A
+PT006,BATT-001,Lithium Battery Pack 78kWh,electric,lithium_ion,478.0,15500.00,true,28,3,8,SUP004,A+
+PT007,BATT-002,Lithium Battery Pack 65kWh,electric,lithium_ion,398.5,12800.00,true,28,4,9,SUP004,A+
+PT008,SEAT-DRV-001,Driver Seat Premium Leather,interior,leather_steel,28.5,1250.00,false,18,25,42,SUP005,A
+PT009,SEAT-PASS-001,Passenger Seat Premium Leather,interior,leather_steel,26.8,1150.00,false,18,25,38,SUP005,A
+PT010,DASH-001-XC90,Dashboard Assembly XC90,interior,plastic_electronics,15.2,980.50,false,25,15,28,SUP006,A
+PT011,WHEEL-19-001,19-inch Alloy Wheel,wheels_tires,aluminum,18.5,385.00,false,14,40,65,SUP007,A
+PT012,TIRE-19-001,Performance Tire 235/55R19,wheels_tires,rubber,12.8,220.00,false,7,80,125,SUP008,A
+PT013,BRAKE-DISC-F,Front Brake Disc Ventilated,braking,cast_iron,8.9,125.50,true,12,30,52,SUP009,B+
+PT014,BRAKE-DISC-R,Rear Brake Disc Solid,braking,cast_iron,6.2,95.80,true,12,30,48,SUP009,B+
+PT015,WIPER-BLADE-001,Windshield Wiper Blade Set,electrical,rubber_metal,0.8,45.20,false,5,50,89,SUP010,B
+PT016,HEADLIGHT-LED-001,LED Headlight Assembly,lighting,plastic_led,4.2,680.00,false,21,20,35,SUP011,A
+PT017,MIRROR-SIDE-001,Side Mirror with Camera,exterior,plastic_electronics,1.8,285.40,false,16,25,41,SUP012,A
+PT018,DOOR-HANDLE-001,Smart Door Handle,hardware,aluminum,0.6,125.80,false,10,40,67,SUP013,B+
+PT019,WINDOW-GLASS-F,Front Windshield Laminated,glass,laminated_glass,15.6,280.00,true,18,12,22,SUP014,A
+PT020,WINDOW-GLASS-S,Side Window Tempered,glass,tempered_glass,4.8,85.50,false,15,30,55,SUP014,A
+PT021,EXHAUST-SYS-001,Complete Exhaust System,exhaust,stainless_steel,35.2,420.00,false,20,15,28,SUP015,B+
+PT022,SUSPENSION-STRUT-F,Front Suspension Strut,suspension,steel_aluminum,12.5,245.60,true,22,20,34,SUP016,A
+PT023,SUSPENSION-STRUT-R,Rear Suspension Strut,suspension,steel_aluminum,11.8,230.40,true,22,20,31,SUP016,A
+PT024,STEERING-WHEEL-001,Leather Steering Wheel,interior,leather_aluminum,2.1,195.00,false,12,18,29,SUP017,A
+PT025,AIRBAG-DRIVER-001,Driver Airbag Module,safety,fabric_electronics,3.2,485.00,true,30,15,26,SUP018,A+
+PT026,AIRBAG-PASS-001,Passenger Airbag Module,safety,fabric_electronics,4.8,520.00,true,30,12,19,SUP018,A+
+PT027,ECU-ENGINE-001,Engine Control Unit,electronics,silicon_plastic,1.2,680.00,true,35,10,18,SUP019,A+
+PT028,ECU-BRAKE-001,Anti-lock Brake System ECU,electronics,silicon_plastic,0.9,420.00,true,28,12,21,SUP020,A+
+PT029,SENSOR-LIDAR-001,LiDAR Sensor Unit,sensors,electronics,2.5,1250.00,true,42,8,14,SUP021,A+
+PT030,SENSOR-CAMERA-001,Front Camera Module,sensors,electronics,0.8,285.00,false,25,20,33,SUP022,A
+PT031,HVAC-UNIT-001,Climate Control Unit,climate,plastic_metal,18.5,950.00,false,24,10,19,SUP023,A
+PT032,RADIO-INFOTAIN-001,Infotainment System,electronics,plastic_electronics,3.2,1580.00,false,28,8,15,SUP024,A
+PT033,CHARGER-PORT-001,EV Charging Port,electric,plastic_metal,2.8,185.00,false,15,25,42,SUP025,A
+PT034,INVERTER-001,High Voltage Inverter,electric,aluminum_silicon,25.4,2850.00,true,38,5,9,SUP026,A+
+PT035,COOLANT-PUMP-001,Electric Coolant Pump,cooling,aluminum_plastic,4.6,295.00,false,16,18,31,SUP027,B+
+PT036,FILTER-AIR-001,High Performance Air Filter,filtration,synthetic_fiber,1.2,45.80,false,8,60,98,SUP028,B
+PT037,FILTER-CABIN-001,Cabin Air Filter HEPA,filtration,hepa_material,0.8,68.50,false,8,40,71,SUP028,B
+PT038,BELT-TIMING-001,Timing Belt Reinforced,engine,rubber_aramid,0.6,85.20,true,14,35,58,SUP029,B+
+PT039,SPARK-PLUG-001,Iridium Spark Plugs Set,ignition,iridium_ceramic,0.3,125.00,false,10,50,82,SUP030,A
+PT040,FUEL-INJECTOR-001,Direct Injection Fuel Injector,fuel,steel_electronics,0.5,285.40,true,21,25,43,SUP031,A
