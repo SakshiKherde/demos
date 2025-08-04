@@ -1,0 +1,31 @@
+id,name,production_line_id,station_number,process_type,cycle_time_seconds,utilization_rate,status,last_calibration
+WS001,Door Welding Station 1,PL001,1,welding,45,0.87,operational,2024-07-15
+WS002,Roof Panel Assembly,PL001,2,assembly,52,0.91,operational,2024-07-10
+WS003,Frame Welding Robot,PL001,3,welding,38,0.94,operational,2024-07-20
+WS004,Body Panel Fitting,PL001,4,fitting,41,0.89,operational,2024-07-12
+WS005,Quality Check Point,PL001,5,inspection,25,0.96,operational,2024-07-18
+WS006,Primer Application,PL003,1,coating,35,0.92,operational,2024-07-22
+WS007,Base Color Spray,PL003,2,painting,42,0.88,operational,2024-07-16
+WS008,Clear Coat Application,PL003,3,coating,38,0.90,operational,2024-07-19
+WS009,Paint Curing Oven,PL003,4,curing,180,0.95,operational,2024-07-14
+WS010,Paint Quality Check,PL003,5,inspection,30,0.97,operational,2024-07-21
+WS011,Engine Installation,PL004,1,installation,85,0.86,operational,2024-07-17
+WS012,Transmission Mount,PL004,2,mounting,47,0.89,operational,2024-07-13
+WS013,Electrical Harness,PL004,3,electrical,62,0.84,operational,2024-07-20
+WS014,Dashboard Assembly,PL004,4,assembly,78,0.91,operational,2024-07-11
+WS015,Seat Installation,PL004,5,installation,35,0.93,operational,2024-07-18
+WS016,Wheel Mounting,PL004,6,mounting,28,0.95,operational,2024-07-16
+WS017,Final Testing,PL004,7,testing,120,0.89,operational,2024-07-19
+WS018,Engine Block Assembly,PL006,1,assembly,95,0.88,operational,2024-07-15
+WS019,Cylinder Head Mount,PL006,2,mounting,52,0.92,operational,2024-07-12
+WS020,Timing Chain Install,PL006,3,installation,67,0.90,operational,2024-07-17
+WS021,Engine Testing,PL006,4,testing,145,0.87,operational,2024-07-14
+WS022,Battery Cell Assembly,PL008,1,assembly,25,0.94,operational,2024-07-20
+WS023,Pack Integration,PL008,2,integration,45,0.89,operational,2024-07-18
+WS024,Cooling System Install,PL008,3,installation,38,0.91,operational,2024-07-16
+WS025,Battery Testing,PL008,4,testing,95,0.93,operational,2024-07-21
+WS026,Door Assembly,PL015,1,assembly,65,0.88,operational,2024-07-13
+WS027,Seat Manufacturing,PL015,2,manufacturing,85,0.90,operational,2024-07-19
+WS028,Dashboard Integration,PL015,3,integration,72,0.87,operational,2024-07-15
+WS029,Interior Quality Check,PL015,4,inspection,40,0.95,operational,2024-07-22
+WS030,Pre-Assembly Station 1,PL013,1,pre_assembly,35,0.89,operational,2024-07-17
