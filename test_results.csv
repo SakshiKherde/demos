@@ -1,0 +1,41 @@
+id,quality_gate_id,production_batch_id,test_date,test_time,measured_value,pass_fail,inspector_id,notes
+TR001,QG001,PB001,2024-07-22,08:15:30,465,pass,INSP001,Weld strength within spec
+TR002,QG001,PB001,2024-07-22,08:45:22,472,pass,INSP001,All welds passed
+TR003,QG002,PB001,2024-07-22,14:20:15,96.5,pass,INSP002,Color match excellent
+TR004,QG003,PB011,2024-07-22,10:30:45,99.2,pass,INSP003,Engine performance optimal
+TR005,QG004,PB014,2024-07-24,11:15:20,99.8,pass,INSP004,Battery safety confirmed
+TR006,QG005,PB002,2024-07-22,16:45:10,2.2,pass,INSP002,Door gaps within tolerance
+TR007,QG006,PB008,2024-07-25,09:30:25,87.5,pass,INSP005,Seat comfort acceptable
+TR008,QG007,PB002,2024-07-22,15:20:35,100,pass,INSP006,All electronics functional
+TR009,QG008,PB003,2024-07-23,13:40:50,98.5,pass,INSP007,Interior quality excellent
+TR010,QG009,PB001,2024-07-22,07:55:12,96.8,pass,INSP001,Frame integrity confirmed
+TR011,QG010,PB013,2024-07-23,12:25:18,97.2,pass,INSP008,Transmission shifts smooth
+TR012,QG011,PB002,2024-07-22,14:50:42,99.5,pass,INSP006,Electrical continuity good
+TR013,QG012,PB001,2024-07-22,16:10:28,1.2,pass,INSP009,Wheel alignment perfect
+TR014,QG013,PB001,2024-07-22,17:30:15,98.8,pass,INSP010,Final inspection passed
+TR015,QG014,PB003,2024-07-23,11:20:33,26.2,pass,INSP002,Paint thickness uniform
+TR016,QG015,PB011,2024-07-22,09:45:20,0,pass,INSP003,No engine leaks detected
+TR017,QG016,PB012,2024-07-23,08:30:15,98.5,pass,INSP011,Cylinder head torque OK
+TR018,QG017,PB012,2024-07-23,08:50:22,96.2,pass,INSP011,Timing chain tension good
+TR019,QG018,PB014,2024-07-24,10:15:45,99.6,pass,INSP004,Battery cells balanced
+TR020,QG019,PB014,2024-07-24,11:45:30,98.1,pass,INSP004,Pack integration successful
+TR021,QG020,PB015,2024-07-25,10:30:18,97.5,pass,INSP012,Cooling system pressure OK
+TR022,QG001,PB003,2024-07-23,08:20:25,442,fail,INSP001,Weld strength below spec
+TR023,QG002,PB004,2024-07-23,14:15:40,94.2,fail,INSP002,Color match slightly off
+TR024,QG005,PB007,2024-07-24,16:30:20,3.1,fail,INSP002,Door gap too wide
+TR025,QG006,PB009,2024-07-25,09:45:35,82.5,fail,INSP005,Seat pressure uneven
+TR026,QG008,PB010,2024-07-26,13:20:18,96.8,fail,INSP007,Minor interior defects
+TR027,QG012,PB016,2024-07-26,15:45:22,2.8,fail,INSP009,Wheel alignment off
+TR028,QG014,PB018,2024-07-27,11:30:45,23.5,fail,INSP002,Paint thickness uneven
+TR029,QG017,PB012,2024-07-23,09:10:30,93.8,fail,INSP011,Timing chain too loose
+TR030,QG003,PB012,2024-07-23,11:20:15,97.2,fail,INSP003,Engine power slightly low
+TR031,QG013,PB003,2024-07-23,17:45:50,95.5,fail,INSP010,Multiple minor issues
+TR032,QG019,PB015,2024-07-25,11:15:25,96.2,fail,INSP004,Thermal management issue
+TR033,QG021,PB018,2024-07-27,14:20:40,87.5,fail,INSP013,Door panel strength low
+TR034,QG007,PB020,2024-07-28,15:30:15,98.5,fail,INSP006,One display malfunction
+TR035,QG004,PB015,2024-07-25,11:45:35,98.2,fail,INSP004,Temperature spike detected
+TR036,QG025,PB003,2024-07-23,10:15:20,85.2,fail,INSP002,Primer adhesion weak
+TR037,QG026,PB004,2024-07-23,12:30:45,93.8,fail,INSP014,Clear coat under-cured
+TR038,QG027,PB005,2024-07-23,13:45:30,95.2,fail,INSP015,Engine mount misaligned
+TR039,QG028,PB007,2024-07-24,14:20:18,92.8,fail,INSP006,Cable routing issue
+TR040,QG030,PB001,2024-07-22,07:30:45,97.5,fail,INSP016,Vision system calibration drift
