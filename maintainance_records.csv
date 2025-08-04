@@ -1,0 +1,36 @@
+id,equipment_id,maintenance_type,scheduled_date,actual_date,duration_hours,technician_id,cost_usd,description,status,next_maintenance_date
+MR001,EQ001,preventive,2024-07-15,2024-07-15,4.5,TECH001,850.00,Weld tip replacement and calibration,completed,2024-08-15
+MR002,EQ002,preventive,2024-07-10,2024-07-10,3.2,TECH002,620.00,Joint lubrication and sensor check,completed,2024-08-10
+MR003,EQ003,corrective,2024-07-20,2024-07-20,6.8,TECH003,1250.00,Electrode replacement due to wear,completed,2024-08-20
+MR004,EQ004,preventive,2024-07-12,2024-07-12,5.5,TECH004,950.00,Hydraulic system service,completed,2024-08-12
+MR005,EQ005,calibration,2024-07-18,2024-07-18,2.0,TECH005,450.00,Vision system recalibration,completed,2024-08-18
+MR006,EQ006,preventive,2024-07-16,2024-07-16,4.0,TECH006,780.00,Paint nozzle cleaning and replacement,completed,2024-08-16
+MR007,EQ007,cleaning,2024-07-22,2024-07-22,2.5,TECH007,320.00,Spray booth filter replacement,completed,2024-08-22
+MR008,EQ008,preventive,2024-07-14,2024-07-14,6.0,TECH008,1100.00,Oven heating element inspection,completed,2024-08-14
+MR009,EQ009,preventive,2024-07-17,2024-07-17,3.8,TECH009,680.00,Chain and cable lubrication,completed,2024-08-17
+MR010,EQ010,calibration,2024-07-13,2024-07-13,1.5,TECH010,290.00,Torque wrench calibration,completed,2024-08-13
+MR011,EQ011,corrective,2024-07-20,2024-07-20,5.2,TECH011,920.00,Cable guide replacement,completed,2024-08-20
+MR012,EQ012,preventive,2024-07-18,2024-07-18,4.2,TECH012,760.00,Robot joint maintenance,completed,2024-08-18
+MR013,EQ013,preventive,2024-07-16,2024-07-16,2.8,TECH013,480.00,Balancer sensor calibration,completed,2024-08-16
+MR014,EQ014,calibration,2024-07-19,2024-07-19,3.5,TECH014,650.00,Dynamometer calibration check,completed,2024-08-19
+MR015,EQ015,preventive,2024-07-15,2024-07-15,5.8,TECH015,1050.00,Robot base and arm service,completed,2024-08-15
+MR016,EQ016,preventive,2024-07-12,2024-07-12,2.2,TECH016,380.00,Gripper jaw adjustment,completed,2024-08-12
+MR017,EQ017,corrective,2024-07-17,2024-07-17,4.5,TECH017,820.00,Tensioner spring replacement,completed,2024-08-17
+MR018,EQ018,preventive,2024-07-14,2024-07-14,7.2,TECH018,1300.00,Test bench calibration service,completed,2024-08-14
+MR019,EQ019,preventive,2024-07-20,2024-07-20,3.0,TECH019,580.00,Welder electrode maintenance,completed,2024-08-20
+MR020,EQ020,preventive,2024-07-18,2024-07-18,3.8,TECH020,720.00,Robot software update,completed,2024-08-18
+MR021,EQ021,calibration,2024-07-16,2024-07-16,4.2,TECH021,790.00,Temperature sensor calibration,completed,2024-08-16
+MR022,EQ022,preventive,2024-07-21,2024-07-21,5.5,TECH022,980.00,Tester probe replacement,completed,2024-08-21
+MR023,EQ023,corrective,2024-07-13,2024-07-13,6.8,TECH023,1150.00,Press cylinder seal replacement,completed,2024-08-13
+MR024,EQ024,cleaning,2024-07-19,2024-07-19,3.2,TECH024,520.00,Injection system cleaning,completed,2024-08-19
+MR025,EQ025,preventive,2024-07-15,2024-07-15,4.5,TECH025,850.00,Robot arm calibration,completed,2024-08-15
+MR026,EQ026,calibration,2024-07-22,2024-07-22,2.8,TECH026,560.00,Scanner optics cleaning,completed,2024-08-22
+MR027,EQ027,preventive,2024-07-17,2024-07-17,3.5,TECH027,640.00,Conveyor belt replacement,completed,2024-08-17
+MR028,EQ028,corrective,2024-07-20,2024-07-20,4.8,TECH028,890.00,AGV battery replacement,completed,2024-08-20
+MR029,EQ029,preventive,2024-07-17,2024-07-17,5.0,TECH029,950.00,Laser head cleaning and alignment,completed,2024-08-17
+MR030,EQ030,preventive,2024-07-19,2024-07-19,2.5,TECH030,480.00,3D printer nozzle replacement,completed,2024-08-19
+MR031,EQ005,emergency,2024-07-26,2024-07-26,8.5,TECH005,1850.00,Vision system camera replacement,in_progress,2024-08-26
+MR032,EQ001,scheduled,2024-08-15,,,TECH001,,Scheduled weld tip maintenance,planned,2024-09-15
+MR033,EQ008,scheduled,2024-08-14,,,TECH008,,Scheduled oven maintenance,planned,2024-09-14
+MR034,EQ004,urgent,2024-07-28,2024-07-28,7.2,TECH004,1420.00,Hydraulic leak repair,completed,2024-08-28
+MR035,EQ003,scheduled,2024-08-20,,,TECH003,,Scheduled electrode service,planned,2024-09-20
