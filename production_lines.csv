@@ -1,0 +1,16 @@
+id,name,plant_id,line_type,capacity_per_hour,current_speed,efficiency_target,status,installation_date,last_maintenance
+PL001,Body Shop Line 1,PLT001,body_assembly,85,82,0.92,operational,2018-03-15,2024-07-20
+PL002,Body Shop Line 2,PLT001,body_assembly,85,78,0.92,operational,2018-03-15,2024-07-18
+PL003,Paint Shop Line 1,PLT001,paint,75,73,0.95,operational,2019-01-10,2024-07-25
+PL004,Final Assembly Line 1,PLT001,final_assembly,65,63,0.88,operational,2017-09-20,2024-07-22
+PL005,Final Assembly Line 2,PLT001,final_assembly,65,61,0.88,maintenance,2017-09-20,2024-07-15
+PL006,Engine Assembly Line,PLT007,engine_assembly,120,115,0.90,operational,2016-05-12,2024-07-19
+PL007,Transmission Line,PLT009,transmission,95,92,0.93,operational,2015-11-08,2024-07-21
+PL008,Battery Pack Line,PLT010,battery_assembly,45,42,0.85,operational,2020-06-01,2024-07-24
+PL009,Body Shop Line 1,PLT002,body_assembly,80,76,0.91,operational,2019-02-14,2024-07-17
+PL010,Paint Shop Line 1,PLT002,paint,70,68,0.94,operational,2019-08-22,2024-07-23
+PL011,Final Assembly Line 1,PLT002,final_assembly,62,59,0.87,operational,2018-12-05,2024-07-20
+PL012,Quality Gate Line,PLT001,quality_control,100,95,0.98,operational,2020-01-15,2024-07-26
+PL013,Pre-Assembly Line,PLT004,pre_assembly,90,85,0.89,operational,2019-05-30,2024-07-19
+PL014,Chassis Assembly,PLT004,chassis_assembly,55,52,0.86,operational,2018-07-12,2024-07-21
+PL015,Interior Assembly,PLT001,interior_assembly,70,67,0.90,operational,2019-11-25,2024-07-24
