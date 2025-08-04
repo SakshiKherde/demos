@@ -1,0 +1,26 @@
+id,location_name,plant_id,location_type,capacity_cubic_meters,current_utilization,temperature_controlled,security_level
+IL001,Main Warehouse A,PLT001,warehouse,15000,0.78,false,medium
+IL002,Main Warehouse B,PLT001,warehouse,12000,0.65,false,medium
+IL003,Cold Storage Unit,PLT001,cold_storage,800,0.45,true,high
+IL004,Paint Storage,PLT001,chemical_storage,600,0.82,true,high
+IL005,Battery Storage,PLT001,hazmat_storage,400,0.68,true,critical
+IL006,Line Side Inventory,PLT001,production_storage,200,0.91,false,low
+IL007,Quality Hold Area,PLT001,quarantine,150,0.25,false,medium
+IL008,Shipping Dock A,PLT001,shipping,500,0.55,false,medium
+IL009,Receiving Dock B,PLT001,receiving,600,0.62,false,medium
+IL010,Tool Crib,PLT001,tool_storage,80,0.73,false,high
+IL011,Main Warehouse,PLT002,warehouse,10000,0.71,false,medium
+IL012,Battery Storage EU,PLT002,hazmat_storage,350,0.58,true,critical
+IL013,Paint Booth Storage,PLT002,chemical_storage,450,0.77,true,high
+IL014,Line Side Buffer,PLT002,production_storage,180,0.88,false,low
+IL015,Shipping Terminal,PLT002,shipping,400,0.64,false,medium
+IL016,Parts Warehouse,PLT003,warehouse,8000,0.69,false,medium
+IL017,Engine Storage,PLT007,specialized,1200,0.84,false,high
+IL018,Transmission Vault,PLT009,specialized,900,0.76,false,high
+IL019,Component Testing,PLT006,testing_storage,300,0.45,true,medium
+IL020,Raw Materials,PLT001,raw_materials,5000,0.72,false,medium
+IL021,Finished Goods,PLT001,finished_goods,3000,0.83,false,high
+IL022,Scrap & Recycling,PLT001,waste_storage,800,0.56,false,low
+IL023,Calibration Lab,PLT012,lab_storage,100,0.38,true,high
+IL024,Prototype Storage,PLT013,prototype,250,0.42,true,critical
+IL025,Spare Parts Central,PLT001,spare_parts,600,0.69,false,medium
