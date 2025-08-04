@@ -1,0 +1,31 @@
+id,name,work_station_id,gate_type,inspection_criteria,pass_threshold,automated,inspection_time_seconds,criticality_level
+QG001,Body Weld Quality Check,WS005,dimensional,weld_strength_torque,450,true,15,high
+QG002,Paint Finish Inspection,WS010,visual,color_match_gloss,95,false,45,medium
+QG003,Engine Performance Test,WS021,functional,power_output_efficiency,98,true,145,critical
+QG004,Battery Safety Check,WS025,electrical,voltage_temperature,99,true,95,critical
+QG005,Door Fit and Finish,WS026,dimensional,gap_flush_alignment,2.5,false,30,medium
+QG006,Seat Comfort Test,WS027,ergonomic,pressure_distribution,85,false,60,low
+QG007,Dashboard Electronics,WS028,electrical,all_functions_operational,100,true,75,high
+QG008,Interior Quality Scan,WS029,visual,material_defects_fit,98,true,40,medium
+QG009,Frame Integrity Check,WS003,structural,stress_test_deflection,95,true,25,critical
+QG010,Transmission Shift Test,WS012,functional,smooth_operation_timing,96,true,85,high
+QG011,Electrical System Test,WS013,electrical,continuity_resistance,99,true,120,critical
+QG012,Wheel Alignment Check,WS016,dimensional,toe_camber_caster,1.5,true,28,high
+QG013,Final Vehicle Inspection,WS017,comprehensive,all_systems_check,97,false,180,critical
+QG014,Paint Thickness Check,WS008,dimensional,coating_thickness_uniform,25,true,20,medium
+QG015,Engine Leak Test,WS018,pressure,fluid_leak_detection,0,true,35,critical
+QG016,Cylinder Head Torque,WS019,mechanical,bolt_torque_specification,98,true,25,critical
+QG017,Timing Chain Tension,WS020,mechanical,chain_tension_spec,95,true,18,high
+QG018,Battery Cell Voltage,WS022,electrical,cell_voltage_balance,99,true,45,critical
+QG019,Pack Integration Test,WS023,system,thermal_electrical_mech,97,true,65,critical
+QG020,Cooling System Pressure,WS024,pressure,coolant_pressure_flow,96,true,55,high
+QG021,Door Panel Strength,WS026,mechanical,impact_resistance,90,true,40,medium
+QG022,Foam Density Check,WS027,material,foam_density_consistency,92,false,25,low
+QG023,Dashboard Insertion Check,WS028,dimensional,fit_clearance_gaps,98,false,35,medium
+QG024,Pre-Assembly Tolerance,WS030,dimensional,component_dimensions,99,true,20,high
+QG025,Primer Adhesion Test,WS006,adhesion,coating_adhesion_strength,88,false,30,medium
+QG026,Clear Coat Curing,WS008,thermal,cure_temperature_time,95,true,12,medium
+QG027,Engine Installation Check,WS011,positional,mount_alignment_torque,97,true,45,critical
+QG028,Harness Routing Check,WS013,positional,cable_routing_protection,95,false,40,high
+QG029,Seat Mechanism Test,WS015,functional,adjustment_mechanisms,98,true,50,medium
+QG030,Vision System Calibration,WS005,calibration,camera_sensor_accuracy,99,true,60,critical
