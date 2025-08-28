@@ -1,0 +1,21 @@
+id,name,version,platform,language,lines_of_code,complexity,description,status,cost
+SC001,Engine Control Software,5.7.2,AUTOSAR,C/C++,125000,High,Real-time engine management system,Active,180000
+SC002,Infotainment OS,8.1.0,Android Auto,Java/Kotlin,450000,High,Complete infotainment operating system,Active,320000
+SC003,ADAS Control Module,3.2.1,Custom RTOS,C,89000,Very High,Advanced driver assistance algorithms,Active,250000
+SC004,Battery Management System,2.4.0,FreeRTOS,C,67000,High,Electric vehicle battery control,Active,150000
+SC005,Climate Control Firmware,4.1.3,Embedded,C,34000,Medium,HVAC system control software,Active,75000
+SC006,Transmission Control,6.3.0,AUTOSAR,C/C++,78000,High,Automatic transmission control logic,Active,140000
+SC007,Navigation Software,12.5.0,Linux,C++/Python,280000,Medium,GPS navigation and mapping,Active,200000
+SC008,Security Module,2.8.1,TEE,C,45000,High,Keyless entry and anti-theft system,Active,95000
+SC009,Diagnostic Software,7.2.0,Windows/Linux,C#/Python,156000,Medium,Vehicle diagnostics and monitoring,Active,120000
+SC010,Over-the-Air Updates,1.9.0,Cloud,Java/Python,89000,High,Remote software update system,Active,110000
+SC011,Voice Recognition,4.6.2,Embedded AI,Python/C++,178000,High,Natural language processing for voice commands,Active,160000
+SC012,Collision Avoidance,1.2.0,Real-time,C,234000,Very High,Autonomous emergency braking system,Development,400000
+SC013,Lane Keeping Assist,3.1.4,AUTOSAR,C,56000,High,Lane detection and steering correction,Active,85000
+SC014,Adaptive Cruise Control,5.8.1,Real-time,C/C++,145000,High,Intelligent speed and distance control,Active,190000
+SC015,Parking Assist,2.7.0,Embedded,C++,67000,Medium,Automated parking system,Active,100000
+SC016,Tire Pressure Monitor,3.4.2,Low-power,C,23000,Low,TPMS sensor data processing,Active,35000
+SC017,Bluetooth Stack,8.1.1,Multi-platform,C,89000,Medium,Wireless connectivity protocols,Active,65000
+SC018,Emergency Call System,2.3.0,Cellular,C/Java,34000,Medium,Automatic emergency response system,Active,80000
+SC019,Fleet Management,4.2.1,Cloud,Java/React,267000,High,Commercial vehicle tracking and management,Active,180000
+SC020,Predictive Maintenance,1.5.0,ML Platform,Python/TensorFlow,123000,High,AI-powered maintenance prediction,Development,220000
