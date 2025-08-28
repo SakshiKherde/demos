@@ -1,0 +1,21 @@
+id,name,part_number,type,supplier,cost,weight,description,complexity,status
+HC001,Engine Control Unit,ECU-2024-A1,Electronic Control Unit,Bosch,450,1.2,Main engine control processor,High,Active
+HC002,Brake Disc Assembly,BD-FR-2024,Brake Component,Brembo,180,8.5,Front brake disc with caliper,Medium,Active
+HC003,LED Headlight Unit,LED-HL-2024,Lighting,Philips,320,2.3,High-efficiency LED headlight assembly,Medium,Active
+HC004,Lithium Battery Pack,LiB-400V-85kWh,Energy Storage,CATL,8500,450,High-capacity lithium-ion battery,High,Active
+HC005,Electric Motor,EM-150kW-AC,Electric Motor,Tesla,3200,85,AC induction motor for EVs,High,Active
+HC006,Transmission Control Module,TCM-8AT-2024,Electronic Control,ZF,380,0.8,8-speed automatic transmission controller,High,Active
+HC007,Airbag System,AB-DUAL-2024,Safety System,Takata,250,3.2,Dual-stage front airbag system,Medium,Active
+HC008,Suspension Strut,SS-ADJ-2024,Suspension,Monroe,420,12.1,Adjustable suspension strut assembly,Medium,Active
+HC009,Infotainment Display,IND-12.3-OLED,Display,Samsung,580,1.9,12.3-inch OLED touchscreen,Medium,Active
+HC010,Radar Sensor,RS-77GHz-LR,Sensor,Continental,680,0.3,Long-range radar for ADAS,High,Active
+HC011,Fuel Injection System,FIS-GDI-2024,Fuel System,Denso,850,5.4,Gasoline direct injection system,High,Active
+HC012,Cooling System Radiator,CSR-AL-2024,Cooling,Mahle,280,15.8,Aluminum radiator with fans,Low,Active
+HC013,Steering Wheel Assembly,SWA-HEAT-2024,Interior,Takata,180,2.1,Heated steering wheel with controls,Low,Active
+HC014,Tire and Wheel Set,TWS-19-P255,Tire/Wheel,Michelin,350,25.4,19-inch alloy wheels with performance tires,Low,Active
+HC015,Catalytic Converter,CC-EU6-2024,Emissions,Johnson Matthey,420,3.8,EU6 compliant catalytic converter,Medium,Active
+HC016,Door Lock Actuator,DLA-PWR-2024,Security,Valeo,95,0.7,Power door lock actuator,Low,Active
+HC017,Alternator,ALT-150A-2024,Charging System,Bosch,280,8.2,150A alternator for charging,Medium,Active
+HC018,Oxygen Sensor,OS-WB-2024,Sensor,NGK,85,0.2,Wideband oxygen sensor,Medium,Active
+HC019,Turbocharger,TC-VGT-2024,Forced Induction,BorgWarner,1200,18.5,Variable geometry turbocharger,High,Active
+HC020,Parking Sensors,PS-ULTRA-8,Sensor,Valeo,180,0.8,8-sensor ultrasonic parking system,Medium,Active
