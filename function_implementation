@@ -1,0 +1,21 @@
+function_id,software_id,hardware_id,implementation_type,complexity,cost_impact
+FN001,SC003,HC001,Direct Control,High,High
+FN002,SC014,HC010,Sensor Integration,High,High
+FN003,SC002,HC009,User Interface,Medium,Medium
+FN004,SC001,HC001,Real-time Control,High,High
+FN005,SC005,HC012,Climate Management,Medium,Low
+FN006,SC003,HC002,Safety Critical,High,High
+FN007,SC006,HC008,Mechanical Assist,Medium,Medium
+FN008,SC006,HC006,Transmission Control,High,High
+FN009,SC002,HC003,Lighting Control,Low,Low
+FN010,SC016,HC020,Pressure Monitoring,Medium,Low
+FN011,SC007,HC009,Navigation Display,Medium,Medium
+FN012,SC008,HC016,Security Control,Low,Low
+FN013,SC002,HC009,Video Display,Medium,Low
+FN014,SC017,HC009,Audio Interface,Low,Low
+FN015,SC013,HC010,Lane Detection,High,Medium
+FN016,SC012,HC002,Emergency Braking,Very High,Very High
+FN017,SC011,HC009,Voice Processing,Medium,Medium
+FN018,SC004,HC005,Energy Recovery,High,High
+FN019,SC006,HC008,Traction Control,High,High
+FN020,SC004,HC004,Battery Control,High,High
