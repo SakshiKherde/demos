@@ -1,0 +1,21 @@
+id,name,country,established_year,workforce_size,lead_time_days,region,capacity_units_per_year,type
+SP001,Bosch Automotive,Germany,1886,425000,45,Europe,15000000,Tier 1
+SP002,Continental AG,Germany,1871,232000,38,Global,12000000,Tier 1
+SP003,Denso Corporation,Japan,1949,168000,42,Global,18000000,Tier 1
+SP004,Magna International,Canada,1957,158000,35,North America,8000000,Tier 1
+SP005,ZF Friedrichshafen,Germany,1915,147000,40,Global,10000000,Tier 1
+SP006,Valeo,France,1923,113000,28,Europe,25000000,Tier 1
+SP007,Aptiv,Ireland,1994,147000,32,Global,50000000,Tier 1
+SP008,BorgWarner,USA,1928,29000,30,Global,2000000,Tier 1
+SP009,Mahle,Germany,1920,72000,35,Global,5000000,Tier 2
+SP010,NGK Spark Plugs,Japan,1936,15000,25,Asia,500000000,Tier 2
+SP011,Brembo,Italy,1961,12500,28,Europe,8000000,Tier 2
+SP012,Michelin,France,1889,117000,21,Global,180000000,Tire Supplier
+SP013,CATL,China,2011,98000,60,Asia,300000,Battery Supplier
+SP014,Samsung SDI,South Korea,1970,28000,55,Asia,150000,Battery Supplier
+SP015,Philips Automotive,Netherlands,1891,77000,30,Global,100000000,Lighting Supplier
+SP016,Johnson Matthey,UK,1817,13000,42,Global,2000000,Catalyst Supplier
+SP017,Takata,Japan,1933,50000,35,Asia,20000000,Safety Systems
+SP018,Monroe,USA,1916,8500,25,North America,15000000,Suspension
+SP019,Faurecia,France,1997,105000,32,Europe,45000000,Interior Systems
+SP020,Delphi Technologies,UK,1994,22000,28,Global,30000000,Electronics
