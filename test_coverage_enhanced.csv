@@ -1,0 +1,11 @@
+test_id,function_id,component_id,coverage_type,pass_status,risk_level,cost
+TS001,FN006,HC007,Safety Validation,Passed,High,85000
+TS002,FN004,HC001,Compliance Testing,Passed,Medium,45000
+TS003,FN008,HC006,Durability Testing,In Progress,High,125000
+TS004,FN004,HC001,Environmental Testing,Passed,Medium,32000
+TS005,FN003,HC009,Compatibility Testing,Passed,Low,28000
+TS006,FN004,HC001,Performance Testing,Passed,Medium,55000
+TS007,FN005,HC012,Durability Testing,Passed,Low,38000
+TS008,FN020,HC004,Environmental Testing,Passed,High,72000
+TS009,FN007,HC008,Stress Testing,Passed,Medium,42000
+TS010,FN002,HC010,Functionality Testing,In Progress,High,95000
